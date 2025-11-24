@@ -1,47 +1,105 @@
-<<<<<<< HEAD
-# Virtual Piano with Hand Tracking
-=======
-# Virtual Piano with Hand Gesture Control
->>>>>>> 91059c35bf8db5015adf47e9a1ac36847f6690e4
+🎹 Gesture-Based Virtual Piano
+Play Music with Your Keyboard, Mouse, or Hand Gestures
 
-An interactive web-based piano application that lets you play using your computer keyboard, mouse, or hand gestures. This project combines traditional web technologies with computer vision for a unique musical experience.
+A modern and interactive web-based piano application that transforms how you play music. Using MediaPipe hand tracking, this project lets you control a digital piano using touch-free hand gestures, delivering a futuristic, intuitive musical experience.
 
-## 🎹 Features
+🌐 Live Demo
 
-<<<<<<< HEAD
-- Play piano using your computer keyboard, mouse, or hand gestures
-=======
-- Play piano using your computer keyboard or hand gestures
->>>>>>> 91059c35bf8db5015adf47e9a1ac36847f6690e4
-- Real-time hand tracking using MediaPipe
-- Responsive design that works on both desktop and mobile devices
-- Multiple octaves with realistic piano sounds
-- Intuitive controls and user interface
-- No installation required - runs directly in the browser
+👉 Use the Virtual Piano Here
 
-## 🚀 Getting Started
+(Replace # with your actual deployment link)
 
-### Prerequisites
+✨ Key Features
+🎼 Multi-Input Piano Control
 
-- A modern web browser with WebRTC support (Chrome, Firefox, or Edge)
-- Webcam (for hand tracking feature)
-- (For local development) Python 3.x for running a local server
+Play using your keyboard
 
-### Installation
+Play with your mouse/touch
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/akashdeep45/virtual_piano_major_project4599525.git
-   cd virtual_piano_major_project4599525
-   ```
-2. Open `web_version/app.html` in your web browser
+Play using real-time hand gestures (gesture-based control)
 
-## Usage
+✋ Advanced Hand Tracking
 
-- Use your computer keyboard keys (A, W, S, E, D, F, T, G, Y, H, U, J) to play notes
-- Or virtual use like air piano
+Powered by MediaPipe Hand Tracking
 
-## Deployment
+Real-time gesture interpretation
 
-This project can be easily deployed to any static web hosting service like Vercel, Netlify, or GitHub Pages.
+Smooth and responsive interactions
 
+🎧 High-Quality Audio
+
+Realistic piano tones
+
+Multiple octaves
+
+Low latency playback
+
+📱 Fully Responsive
+
+Works on desktop, tablet, and mobile
+
+Clean and intuitive UI
+
+🌐 Browser-Based
+
+No installation required
+
+Works directly in your browser
+
+Compatible with Chrome, Edge, and Firefox
+
+🎮 How to Use
+
+Press keyboard keys: A, W, S, E, D, F, T, G, Y, H, U, J
+
+Use gestures in front of your webcam to trigger notes
+
+Tap/click on-screen keys
+
+Switch octaves and settings directly from the UI
+
+Works instantly — no setup needed
+
+🛠️ Tech Stack
+Category	Technologies
+Frontend	HTML, CSS, JavaScript
+Computer Vision	MediaPipe Hand Tracking
+Audio	Web Audio API
+Optional Backend	Python for local server
+Deployment	Netlify / Vercel / GitHub Pages
+🚀 Deployment
+
+This project can be deployed on any static hosting platform. Simply upload the contents of the:
+
+web_version/
+
+
+folder to your hosting provider.
+
+📸 Screenshots / Demo
+
+(Optional — I can add placeholders or generate a layout if you want)
+Let me know if you want:
+✔ Screenshot section
+✔ Live demo GIF
+✔ UI preview grid
+
+📄 Project Insights
+
+This project showcases:
+
+Real-time computer vision integration
+
+Browser-based multimedia applications
+
+Gesture-controlled interfaces
+
+Audio synthesis via Web Audio API
+
+Responsive UI/UX design
+
+Efficient front-end engineering
+
+🙌 Acknowledgements
+
+Inspired by modern digital pianos and enhanced with gesture-based interaction for a more immersive experience.
