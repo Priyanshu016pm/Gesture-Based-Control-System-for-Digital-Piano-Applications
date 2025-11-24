@@ -1,4 +1,4 @@
-#🎹 Gesture-Based Virtual Piano
+# 🎹 Gesture-Based Virtual Piano
 ## A Touch-Free, Interactive, Web-Based Music Experience
 
 ### The Gesture-Based Virtual Piano is an innovative browser-based application that allows users to play a digital piano using keyboard input, mouse/touch, or real-time hand gestures. Leveraging MediaPipe Hand Tracking, the system delivers a futuristic, immersive, and touch-free musical interface directly inside the browser — with no installation required.
@@ -7,7 +7,7 @@
 
 ### Access the live version here:
 
-##👉 https://virtualpiano599525.netlify.app/
+## 👉 https://virtualpiano599525.netlify.app/
 
 ### Works instantly in any modern browser.
 
@@ -114,7 +114,7 @@
 
 ## 🧠 Learning Outcomes
 
-##This project demonstrates:
+## This project demonstrates:
 
 ### Implementation of real-time gesture recognition in the browser
 
@@ -128,4 +128,4 @@
 
 # 🙌 Acknowledgements
 
-##This project incorporates open-source technologies from MediaPipe and various web audio libraries, combined to create an engaging and educational digital music experience.
+## This project incorporates open-source technologies from MediaPipe and various web audio libraries, combined to create an engaging and educational digital music experience.
