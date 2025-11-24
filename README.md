@@ -1,5 +1,5 @@
-🎹 Gesture-Based Virtual Piano
-Play Music with Your Keyboard, Mouse, or Hand Gestures
+# 🎹 Gesture-Based Virtual Piano
+## Play Music with Your Keyboard, Mouse, or Hand Gestures
 
 A modern and interactive web-based piano application that transforms how you play music. Using MediaPipe hand tracking, this project lets you control a digital piano using touch-free hand gestures, delivering a futuristic, intuitive musical experience.
 
